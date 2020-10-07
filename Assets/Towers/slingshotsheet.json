@@ -1,0 +1,171 @@
+{"frames": {
+
+"Ammo1.png":
+{
+	"frame": {"x":0,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"Ammo2.png":
+{
+	"frame": {"x":50,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"Ammo4.png":
+{
+	"frame": {"x":100,"y":0,"w":50,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":48},
+	"sourceSize": {"w":50,"h":48}
+},
+"Flame1.png":
+{
+	"frame": {"x":150,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"Flame2.png":
+{
+	"frame": {"x":200,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"Flame3.png":
+{
+	"frame": {"x":250,"y":0,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"Path1/Tier0/1.png":
+{
+	"frame": {"x":0,"y":50,"w":350,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":16},
+	"sourceSize": {"w":350,"h":16}
+},
+"Path1/Tier0/2.png":
+{
+	"frame": {"x":0,"y":66,"w":352,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":99},
+	"sourceSize": {"w":352,"h":99}
+},
+"Path1/Tier0/Circles.png":
+{
+	"frame": {"x":0,"y":165,"w":450,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":100},
+	"sourceSize": {"w":450,"h":100}
+},
+"Path1/Tier1/1.png":
+{
+	"frame": {"x":0,"y":265,"w":350,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":16},
+	"sourceSize": {"w":350,"h":16}
+},
+"Path1/Tier1/2.png":
+{
+	"frame": {"x":0,"y":281,"w":352,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":99},
+	"sourceSize": {"w":352,"h":99}
+},
+"Path1/Tier1/Circles.png":
+{
+	"frame": {"x":0,"y":380,"w":450,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":100},
+	"sourceSize": {"w":450,"h":100}
+},
+"Path1/Tier2/1.png":
+{
+	"frame": {"x":0,"y":480,"w":350,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":16},
+	"sourceSize": {"w":350,"h":16}
+},
+"Path1/Tier2/2.png":
+{
+	"frame": {"x":0,"y":496,"w":352,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":99},
+	"sourceSize": {"w":352,"h":99}
+},
+"Path1/Tier2/Circles.png":
+{
+	"frame": {"x":0,"y":595,"w":450,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":100},
+	"sourceSize": {"w":450,"h":100}
+},
+"Path2/Tier0/1.png":
+{
+	"frame": {"x":0,"y":695,"w":444,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":444,"h":94},
+	"sourceSize": {"w":444,"h":94}
+},
+"Path2/Tier1/1.png":
+{
+	"frame": {"x":0,"y":789,"w":444,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":444,"h":94},
+	"sourceSize": {"w":444,"h":94}
+},
+"Path2/Tier2/1.png":
+{
+	"frame": {"x":0,"y":883,"w":444,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":444,"h":94},
+	"sourceSize": {"w":444,"h":94}
+},
+"Path2/Tier3/1.png":
+{
+	"frame": {"x":0,"y":977,"w":444,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":444,"h":94},
+	"sourceSize": {"w":444,"h":94}
+}},
+"animations": {
+	"Ammo": ["Ammo1.png","Ammo2.png","Ammo4.png"],
+	"Flame": ["Flame1.png","Flame2.png","Flame3.png"],
+	"Path1/Tier0": ["Path1/Tier0/1.png","Path1/Tier0/2.png"],
+	"Path1/Tier1": ["Path1/Tier1/1.png","Path1/Tier1/2.png"],
+	"Path1/Tier2": ["Path1/Tier2/1.png","Path1/Tier2/2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "slingshotsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":450,"h":1071},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e40bee4261a99b7b7a85214bfc24a683:4f19a39839278f32773e9a27dee06ebd:219fb0ed29d193c0ba4670c4ff5304cc$"
+}
+}

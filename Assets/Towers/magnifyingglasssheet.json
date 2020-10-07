@@ -1,0 +1,94 @@
+{"frames": {
+
+"Path1/Tier0/1.png":
+{
+	"frame": {"x":0,"y":0,"w":388,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":72},
+	"sourceSize": {"w":388,"h":72}
+},
+"Path1/Tier1/1.png":
+{
+	"frame": {"x":388,"y":0,"w":388,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":72},
+	"sourceSize": {"w":388,"h":72}
+},
+"Path1/Tier2/1.png":
+{
+	"frame": {"x":776,"y":0,"w":388,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":72},
+	"sourceSize": {"w":388,"h":72}
+},
+"Path1/Tier3/1.png":
+{
+	"frame": {"x":1164,"y":0,"w":432,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":432,"h":92},
+	"sourceSize": {"w":432,"h":92}
+},
+"Path1/Tier4/1.png":
+{
+	"frame": {"x":0,"y":92,"w":497,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":497,"h":92},
+	"sourceSize": {"w":497,"h":92}
+},
+"Path2/Tier0/1.png":
+{
+	"frame": {"x":497,"y":92,"w":218,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":218},
+	"sourceSize": {"w":218,"h":218}
+},
+"Path2/Tier1/1.png":
+{
+	"frame": {"x":715,"y":92,"w":218,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":218},
+	"sourceSize": {"w":218,"h":218}
+},
+"Path2/Tier2/1.png":
+{
+	"frame": {"x":933,"y":92,"w":218,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":218},
+	"sourceSize": {"w":218,"h":218}
+},
+"Path2/Tier3/1.png":
+{
+	"frame": {"x":1151,"y":92,"w":218,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":218},
+	"sourceSize": {"w":218,"h":218}
+},
+"Path2/Tier4/1.png":
+{
+	"frame": {"x":1369,"y":92,"w":218,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":218},
+	"sourceSize": {"w":218,"h":218}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "magnifyingglasssheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1596,"h":310},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d999992646902794c7a137e39603d51d:ab27f267c3513a86b65366c3da46aa3a:50fa93d9f159a141d6dda06e02b612bc$"
+}
+}

@@ -1,0 +1,71 @@
+{"frames": {
+
+"ConcreteWindmill.png":
+{
+	"frame": {"x":1403,"y":0,"w":498,"h":457},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":498,"h":457},
+	"sourceSize": {"w":498,"h":457}
+},
+"SteelWindmill.png":
+{
+	"frame": {"x":498,"y":457,"w":498,"h":457},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":498,"h":457},
+	"sourceSize": {"w":498,"h":457}
+},
+"StoneWindmill.png":
+{
+	"frame": {"x":0,"y":457,"w":498,"h":457},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":498,"h":457},
+	"sourceSize": {"w":498,"h":457}
+},
+"WindmillDamage1.png":
+{
+	"frame": {"x":0,"y":0,"w":458,"h":413},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":458,"h":413},
+	"sourceSize": {"w":458,"h":413}
+},
+"WindmillDamage2.png":
+{
+	"frame": {"x":458,"y":0,"w":458,"h":455},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":458,"h":455},
+	"sourceSize": {"w":458,"h":455}
+},
+"WindmillDamage3.png":
+{
+	"frame": {"x":916,"y":0,"w":487,"h":457},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":487,"h":457},
+	"sourceSize": {"w":487,"h":457}
+},
+"WoodWindmill.png":
+{
+	"frame": {"x":996,"y":457,"w":498,"h":457},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":498,"h":457},
+	"sourceSize": {"w":498,"h":457}
+}},
+"animations": {
+	"WindmillDamage": ["WindmillDamage1.png","WindmillDamage2.png","WindmillDamage3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "windmillsheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1901,"h":914},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:909c0cd46a96c7e4d9d6c08f3091c324:395af12d24bd45364413364a2d76e178:aebc37a2e178c18d3fbeb09688b7ccf2$"
+}
+}
